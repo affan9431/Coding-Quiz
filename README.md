@@ -37,9 +37,10 @@ Check out the live version here: [Quiz For Coders](https://quiz-for-coders.netli
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/quiz-for-coders.git
+   git clone https://github.com/affan9431/Coding-Quiz
    cd quiz-for-coders
    
 2. Open index.html in your favorite browser.
 
 3. Enjoy the quiz and test your coding skills!
+
